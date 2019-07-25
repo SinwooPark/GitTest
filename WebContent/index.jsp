@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1>This is my Git Practice Project</h1>
-	<h3>just 'force'?</h3>
+	<h3></h3>
 	<a href="member/memberView.jsp">멤버 조회</a>
 	<h2>창진샘거에서 테스트ㅎㅎ</h2>
 </body>
