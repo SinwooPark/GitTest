@@ -9,7 +9,7 @@
 <body>
 	<h1>This is my Git Practice Project</h1>
 	<h2>안녕하십니까</h2>
-	<% for(int i = 0; i < 10; i++){ %>
+	<% if(true){ %>
 	난 진짜 반가워 내 마음 알지?<br>
 	<% } %>
 	<h3></h3>
